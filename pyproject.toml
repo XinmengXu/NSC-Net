@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nsc-net-avss"
+version = "0.1.0"
+description = "PyTorch reference implementation of NSC-Net for audio-visual speech separation."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+
+[tool.setuptools.packages.find]
+include = ["nsc_net*"]
