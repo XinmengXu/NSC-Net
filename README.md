@@ -4,8 +4,7 @@ Pre-release PyTorch code for:
 
 > **Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation**
 
-NSC-Net is an audio-visual speech separation model built around explicit auditory selection and cross-modal compensation. The code is provided as a compact reference implementation for readers.
-
+NSC-Net is an audio-visual speech separation model built around explicit auditory selection and cross-modal compensation. 
 The main model is implemented in:
 
 ```text
