@@ -15,7 +15,7 @@ audionet:
 videonet:
   videonet_name: ResNetVideoModel
   videonet_config:
-    pretrain: pretrain_zoo/lrw_resnet18_mstcn_adamw_s3.pth.tar
+    pretrain: .pth.tar
 
 # Loss config
 loss:
